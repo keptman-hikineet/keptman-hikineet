@@ -4,7 +4,7 @@ Hi, I'm keptman-hikineet (altho my [Twitter handle](https://twitter.com/oikos_mc
 
 I'm new to GitHub, so please guide me, *senpai*. 
 
-![Alt text](https://tenor.com/bu3AG.gif)
+![teehee](https://user-images.githubusercontent.com/98951057/153031140-38dd352c-66c6-416e-b898-d5fc04cc9964.gif)
 
 <!---
 keptman-hikineet/keptman-hikineet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
